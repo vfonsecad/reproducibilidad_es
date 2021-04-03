@@ -13,7 +13,7 @@
 :title-slide-background-image: desk.jpg
 by: Marco and Valeria
 
-[background-image="unal_background.svg",background-size=1550px]
+[background-image="unal_background.svg",background-size=100%]
 == Why do we need that?
 
 //[%step]
