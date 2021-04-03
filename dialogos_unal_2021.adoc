@@ -2,8 +2,8 @@
 :customcss: my_theme.css
 //:revealjs_parallaxBackgroundImage: assets/images/network_background.jpg
 //:revealjs_parallaxBackgroundSize: 3500px 2300px
-:revealjs_width: 900px
-:revealjs_height: 540px
+:revealjs_width: 900
+:revealjs_height: 540
 
 
 

@@ -535,8 +535,8 @@ Reveal.initialize({
   // The "normal" size of the presentation, aspect ratio will be preserved
   // when the presentation is scaled to fit different resolutions. Can be
   // specified using percentage units.
-  width: 900px,
-  height: 540px,
+  width: 900,
+  height: 540,
 
   // Factor of the display size that should remain empty around the content
   margin: 0.1,
@@ -615,11 +615,11 @@ function toArray(o) {
 }
 
 Reveal.addEventListener('slidechanged', function () {
-  layoutSlideContents(900px, 540px)
+  layoutSlideContents(900, 540)
 });
 Reveal.addEventListener('ready', function () {
-  layoutSlideContents(900px, 540px)
+  layoutSlideContents(900, 540)
 });
 Reveal.addEventListener('resize', function () {
-  layoutSlideContents(900px, 540px)
+  layoutSlideContents(900, 540)
 });</script></body></html>
