@@ -2,8 +2,8 @@
 :customcss: my_theme.css
 //:revealjs_parallaxBackgroundImage: assets/images/network_background.jpg
 //:revealjs_parallaxBackgroundSize: 3500px 2300px
-:revealjs_width: 900
-:revealjs_height: 540
+//:revealjs_width: 900
+//:revealjs_height: 540
 
 
 
@@ -11,7 +11,7 @@
 = Reproducibility
 :imagesdir: assets/images/
 :title-slide-background-image: desk.jpg
-by: Marco and Valeria
+by: Marco and Valeria :)
 
 [background-image="unal_background.svg",background-size=100%]
 == Why do we need that?
