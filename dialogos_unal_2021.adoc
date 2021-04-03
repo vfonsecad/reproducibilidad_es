@@ -9,7 +9,7 @@
 
 = Reproducibility
 :imagesdir: assets/images/
-:title-slide-background-image: desk.jpg
+//:title-slide-background-image: desk.jpg
 
 
 
@@ -23,12 +23,12 @@
 
     } );
 </script>
-<div id="schauderhaft-footer" class="footer">
+ <div id="schauderhaft-footer" class="footer">
 	<img src = "assets/images/logo2.png" alt="Programa de Egresados" style="display:block;max-width:35%;max-height:35%;vertical-align:middle"/>
 	<span class="element"></span>
 	<img src = "assets/images/logo1.png" alt="Universidad Nacional de Colombia" style="display:block;max-width:35%;max-height:35%;float:right;vertical-align:middle"/>
 
-</div>
+ </div>
 
 ++++
 
@@ -38,7 +38,7 @@ by: Marco and Valeria <3
 //[background-image="unal_background.svg",background-size=100%]
 == Why do we need that?
 
-image::unal_background.svg[background,size=cover]
+//image::unal_background.svg[background,size=cover]
 
 //[%step]
 * Foo
