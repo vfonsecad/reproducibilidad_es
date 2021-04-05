@@ -44,7 +44,7 @@ DIV.emphsentence P {
   text-align: center;
 }
 
-DIV.mytitle P {
+/* DIV.mytitle P {
 	color: #7D7D7D; 
 	font-weight: normal;
 	line-height: 1.0;
@@ -58,6 +58,7 @@ DIV.mytitle P {
 	left: -20px;
 
 }
+*/
 
 /* ------------------------------------------------------ The refs section */
 DIV.refs {

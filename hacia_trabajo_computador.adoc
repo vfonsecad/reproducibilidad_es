@@ -1,0 +1,156 @@
+
+== *Hacia un trabajo reproducible en la era del computador*
+
+[.columns.is-vcentered]
+=== _Nuestro actual instinto de trabajo_
+
+[.column.is-two-fifths]
+--
+image::industry_2.png[problema_industria, 700,550]
+--
+
+[.column.is-two-fifths.has-text-justified]
+--
+En algún punto acá es necesario *detenerse* y *organizar*
+--
+
+[.column.is-one-fifths]
+--
+image::test_diagram.png[detener-test, 190,550]
+--
+
+=== _Elementos para un trabajo reproducible_
+
+{bl}
+{bl}
+{bl}
+{bl}
+[.emphsentence]
+--
+Los objetivos
+--
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
+La marca personal de un profesional o de un investigador
+
+[.columns]
+=== _Elementos para un trabajo reproducible_
+
+
+[.column.is-one-third.has-text-justified]
+--
+[.emphsentence]
+La estrategia
+
+
+Intentar::
+
+Detenerse::
+
+Diseñar::
+Manual +
+Automatizado +
+Trabajar::
+Documentación
+--
+
+[.column.is-one-third.has-text-justified]
+--
+[.emphsentence]
+La estructura
+
+* proyecto_objectivo
+** estudio1
+*** input
+*** proceso
+*** output
+
+Quién será el siguiente usuario de este proceso
+--
+
+[.column.is-one-third.has-text-justified]
+--
+[.emphsentence]
+Los elementos técnicos
+
+Experimental::
+Qué instrumentos +
+Qué material +
+Qué protocolos +
+
+Computacional::
+Qué sistema operativo +
+Qué software +
+Qué programación +
+--
+
+[.columns.is-vcentered]
+=== _Elementos para un trabajo reproducible_
+
+[.column.is-half.has-text-justified]
+--
+Campso de trabajo/Ciencias::
+Naturales +
+De Ingeniería +
+Computacionales +
+Económicas
+--
+
+[.column.is-half.has-text-justified]
+--
+[.emphsentence]
+Los elementos técnicos
+
+Experimental::
+Qué instrumentos +
+Qué material +
+Qué protocolos +
+
+Computacional::
+Qué sistema operativo +
+Qué software +
+Qué programación +
+--
+
+[.columns.is-vcentered]
+=== _Elementos para un trabajo reproducible_
+
+[.column.is-one-third.has-text-justified]
+--
+Uno mismo +
+{bl}
+{bl}
+Un investigador / profesional del mismo tipo +
+{bl}
+{bl}
+Una compañía que está interesada en un resultado académico +
+--
+
+[.column.is-one-third.has-text-justified]
+--
+[.emphsentence]
+La estructura
+
+* proyecto_objectivo
+** estudio1
+*** input
+*** proceso
+*** output
+
+Quién será el siguiente usuario de este proceso
+--
+
+[.column.is-one-third.has-text-justified]
+--
+Un usuario sin conocimiento técnico del tema +
+{bl}
+{bl}
+Un estudiante +
+{bl}
+{bl}
+Público en general +
+--
