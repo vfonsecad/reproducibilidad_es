@@ -262,10 +262,14 @@ Falta de comunicación para estructurar el trabajo
 
 [.column.is-half]
 --
+En la academia
+[link="https:"]
 image::academy_1.png[academia_hoy, 800,600]
 --
 [.column.is-half]
 --
+En la industria
+[link="https:"]
 image::industry_1.png[industria_hoy, 800,600]
 --
 
@@ -307,6 +311,51 @@ image::headline_2.png[headline2, 600,450]
 --
 
 
+
+[%notitle.columns]
+=== _¿Cómo se vive el problema de la *reproducibilidad* hoy?_
+
+[.column.is-half]
+--
+La crisis de reproducibilidad en la *academia*
+[link=https://www.insidehighered.com/news/2014/08/14/almost-no-education-research-replicated-new-article-shows]
+image::news_repro_academia1.png[news_repro_academia1,700,500]
+--
+[.column.is-half]
+--
+[link=https://www.insidehighered.com/news/2014/08/14/almost-no-education-research-replicated-new-article-shows]
+image::news_repro_academia2.png[news_repro_academia2,700,400]
+No podemos repetir resultados
+{bl}
+No se pueden aplicar métodos a datos nuevos
+{bl}
+Cuestionamiento de la validez científica
+--
+
+
+[%notitle.columns]
+=== _¿Cómo se vive el problema de la *reproducibilidad* hoy?_
+
+[.column.is-two-thirds]
+--
+La crisis de reproducibilidad en la *industria*
+[link=https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c]
+image::news_repro_industry1.png[news_repro_industry1,1000,600]
+--
+[.column.is-one-third]
+--
+{bl}
+{bl}
+Desestabilidad y vulnerabilidad de proyectos
+{bl}
+{bl}
+Documentación inexistente
+{bl}
+{bl}
+Degradación de la *productividad*
+--
+
+include::dialogos_unal_2021_historias.adoc[]
 
 
 //== This is a red background
