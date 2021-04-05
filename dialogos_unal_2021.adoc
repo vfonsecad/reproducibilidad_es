@@ -6,42 +6,45 @@
 :revealjs_transition: none
 :bl: pass:[ +]
 
-
-
-
-
 = _Sobre *reproducibilidad* y *repetibilidad* en la academia y en la industria_
 :imagesdir: assets/images/
 //:title-slide-background-image: desk.jpg
 
 
-
 ++++
+
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
 
+<!-- Create hidden header/footer <div> -->
+<div id="hidden" style="display:none;">
+    <div id="footer">
+        <div id="footer-bar"></div>
+        <div id="footer-left"><img src="assets/images/logo2.png"></div>
+        <div id="footer-right"><img src="assets/images/logo1.png"></div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 <script type="text/javascript">
-    window.addEventListener("load", function() {
-
-        revealDiv = document.querySelector("body div.reveal")
-        footer = document.getElementById("schauderhaft-footer");
-        revealDiv.appendChild(footer);
-
-    } );
+    // 3. On Reveal.js ready event, copy header/footer <div> into each `.slide-background` <div>
+    var footer = $('#footer').html();
+    if ( window.location.search.match( /print-pdf/gi ) ) {
+        Reveal.addEventListener( 'ready', function( event ) {
+            $('.slide-background').append(footer);
+        });
+    }
+    else {
+        $('div.reveal').append(footer);
+   }
 </script>
- <div id="schauderhaft-footer" class="footer">
-	<img src = "assets/images/logo2.png" alt="Programa de Egresados" style="display:block;max-width:35%;max-height:35%;vertical-align:middle"/>
-	<span class="element"></span>
-	<img src = "assets/images/logo1.png" alt="Universidad Nacional de Colombia" style="display:block;max-width:35%;max-height:35%;float:right;vertical-align:middle"/>
 
- </div>
 
 ++++
 
 
 *_Abril 2021_*
-
 
 
 //[background-image="unal_background.svg",background-size=100%]
@@ -139,8 +142,6 @@ Inseguridad para adquirir nuevas habilidades
 Falta de ideas para organizar el trabajo
 --
 
-
-
 [.columns]
 === _El problema de la reproducibilidad en la *academia_*
 
@@ -183,7 +184,6 @@ Falta de ideas para organizar el trabajo
 
 [.columns]
 === _El problema de la reproducibilidad en la *industria_*
-
 
 [.column.is-one-fifth]
 --
@@ -323,3 +323,4 @@ image::headline_2.png[headline2, 600,450]
 //|image:vaccine1.png[vaccine1, 600,600]
 //|image:vaccine2.png[vaccine2, 800,600]
 //|===
+
