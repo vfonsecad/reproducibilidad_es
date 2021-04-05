@@ -1,5 +1,5 @@
 
-//[background-image="desk.jpg"]
+[background-image="valeria_background.svg",background-size=75%, background-opacity=0.4, background-color="white"]
 [.columns]
 == *Historias*
 
@@ -42,7 +42,7 @@ image::historias_industria1.png[historias_industria1, 1000, 500]
 
 
 [.columns]
-=== _Historias de *reproducibilidad éxitosa* en la *academia_*
+=== _Historias de *reproducibilidad exitosa* en la *academia_*
 
 
 [.column.is-one-third]
@@ -59,7 +59,7 @@ image::historias_academia4.png[historias_academia4, 900, 580]
 --
 
 [.columns]
-=== _Historias de *reproducibilidad éxitosa* en la *academia_*
+=== _Historias de *reproducibilidad exitosa* en la *academia_*
 
 [.column]
 --
@@ -71,16 +71,20 @@ image::historias_academia5.png[historias_academia5, 800, 350]
 --
 [link=https://github.com/vfonsecad/multivariate_calibration]
 image::historias_academia5_1.png[historias_academia5, 800, 400]
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
 --
 
 
 [.columns.is-vcentered]
-=== _Historias de *reproducibilidad éxitosa* en la *academia_*
+=== _Historias de *reproducibilidad exitosa* en la *academia_*
 
 [.column.is-one-fifth]
 --
-[.coloredtext]
-Ph.D. Makeover{asterisk}
+Ph.D. Makeover
 
 by: https://github.com/marcodallavecchia[mdv] & https://github.com/vfonsecad[vfd]
 --
@@ -112,7 +116,7 @@ resultados:::
 
 
 
-=== _Historias de *reproducibilidad éxitosa* en la *industria_*
+=== _Historias de *reproducibilidad exitosa* en la *industria_*
 
 Respondiendo a la petición de un cliente sobre una investigación pasada
 
@@ -120,7 +124,7 @@ image::historias_industria2.png[historias_industria2, 1100, 520]
 
 
 [%notitle]
-=== _Historias de *reproducibilidad éxitosa* en la *industria_*
+=== _Historias de *reproducibilidad exitosa* en la *industria_*
 
 
 Estamos pasando de publicar una figura de *resultados* a compartir el *proceso* de análisis, incluida la figura ...

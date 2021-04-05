@@ -1,5 +1,6 @@
 
-== Reproducibilidad y más
+[background-image="valeria_background.svg",background-size=75%, background-opacity=0.4, background-color="white"]
+== *Reproducibilidad y más*
 
 === _Reproducibility in Open Science_
 [link=https://book.fosteropenscience.eu/en/]
@@ -40,3 +41,8 @@ image::repro_industry1.png[why-your-company-needs-reproducible-research]
 [link=https://towardsdatascience.com/why-your-company-needs-reproducible-research-d4a08f978d39]
 image::repro_industry2.png[why-your-company-needs-reproducible-research2, 700,550]
 --
+
+[%notitle]
+=== _¿Podemos abrir campo a la divulgación de Open Science y Reproducibilidad en la UNAL?_
+[.emphsentence]
+¿Podemos abrir campo a la divulgación de Open Science y Reproducibilidad en la UNAL?

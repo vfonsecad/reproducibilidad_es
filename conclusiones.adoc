@@ -1,8 +1,6 @@
 
-== ¿Podemos abrir campo a la divulgación de Open Science y Reproducibilidad en la UNAL?
-
 [.columns]
-=== _¿La industria Ramo sin la receta del chocorramo?_
+== _¿La industria Ramo sin la receta del chocorramo?_
 
 
 //[.custom-style]
@@ -33,7 +31,7 @@ image::vaccine2.png[vaccine2, 800,550]
 --
 Agradecimiento al espacio de Diálogos con Egresados 2021 y facilidades.
 
-Colaboración con https://marcodallavecchia.github.io/biologistsadventure/[Marco Dalla Vecchia] en el desarrollo de este contenido.
+Colaboración con https://marcodallavecchia.github.io/biologistsadventure/[Marco Dalla Vecchia] en el desarrollo de este contenido e ilustraciones.
 
 ++++
 <iframe src="https://marcodallavecchia.github.io/biologistsadventure/" width="700" height="300"></iframe>
@@ -42,7 +40,7 @@ Colaboración con https://marcodallavecchia.github.io/biologistsadventure/[Marco
 
 [.column]
 --
-Twitter: @valefonsecadiaz
+Twitter: https://twitter.com/valefonsecadiaz[@valefonsecadiaz]
 
 LinkedIn: https://www.linkedin.com/in/valeria-fonseca-diaz-060283103/[https://www.linkedin.com/in/valeria-fonseca-diaz-060283103/]
 

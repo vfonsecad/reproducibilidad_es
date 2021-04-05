@@ -123,12 +123,19 @@ Inconsistencia en la organización
 
 [.column.is-three-fifths.emphsentence]
 --
+{bl}
+{bl}
+{bl}
+{bl}
 Empobrecimiento de la credibilidad en investigación científica
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
 --
-{bl}
-{bl}
-{bl}
-{bl}
+
 [.column.is-one-fifth]
 --
 Pesca de resultados positivos
@@ -196,11 +203,18 @@ Falta de planeación para adquirir herramientas
 --
 [.column.is-three-fifths.emphsentence]
 --
+{bl}
+{bl}
+{bl}
 Riesgo de reducción en innovación
 {bl}
 Riesgo de incapacidad para responder a requerimientos de  proyectos pasados
 {bl}
 Riesgo de alta ineficiencia
+{bl}
+{bl}
+{bl}
+{bl}
 {bl}
 --
 [.column.is-one-fifth]

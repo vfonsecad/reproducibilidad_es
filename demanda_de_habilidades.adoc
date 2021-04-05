@@ -1,9 +1,9 @@
 
-[background-image="valeria_background_cut.svg",background-size=75%, background-opacity=0.4, background-color="white"]
-== *La demanda de habilidades computacionales en una cultura de Reproducibilidad*
+[background-image="valeria_background.svg",background-size=75%, background-opacity=0.4, background-color="white"]
+== *La demanda de habilidades computacionales en una cultura de reproducibilidad*
 
 [.columns]
-=== El científico o profesional
+=== _El científico o profesional_
 
 [.column.is-one-third.has-text-justified]
 --
@@ -45,11 +45,16 @@ Siglo XXII::
 {bl}
 {bl}
 ¿Qué viene después de la era digital?
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
 --
 
-=== El científico o profesional programado
+=== _El científico o profesional programando_
 
-[.coloredtext]
 Generalización en la enseñanza
 
 {bl}
@@ -59,5 +64,16 @@ Generalización en la enseñanza
 *Lenguajes de programación*: C, Java, Python, R, …
 
 *Version control systems*: Git, SNV, …
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
 
+[%notitle]
 === _¿Podemos profundizar la inclusión de programación en las diferentes áreas del conocimiento?_
+[.emphsentence]
+¿Podemos profundizar la inclusión de programación en las diferentes áreas del conocimiento?

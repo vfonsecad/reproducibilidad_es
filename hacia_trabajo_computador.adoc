@@ -1,4 +1,5 @@
 
+[background-image="valeria_background.svg",background-size=75%, background-opacity=0.4, background-color="white"]
 == *Hacia un trabajo reproducible en la era del computador*
 
 [.columns.is-vcentered]
@@ -36,6 +37,9 @@ Los objetivos
 {bl}
 {bl}
 La marca personal de un profesional o de un investigador
+{bl}
+{bl}
+{bl}
 
 [.columns]
 === _Elementos para un trabajo reproducible_
@@ -100,7 +104,7 @@ De Ingeniería +
 {bl}
 Computacionales +
 {bl}
-Económicas
+Económicas / Humanas
 --
 
 [.column.is-one-third.noborderimage]
@@ -201,7 +205,7 @@ De Ingeniería +
 {bl}
 Computacionales +
 {bl}
-Económicas
+Económicas / Humanas
 --
 
 [.column.is-one-third.has-text-justified]
@@ -211,7 +215,15 @@ Económicas
 {bl}
 {bl}
 {bl}
-_Todo el trabajo, sean los procesos que se desarrollaron manualmente como los automatizados deben tener documentación clara y explícita_
+_Todo el trabajo, sean los procesos que se desarrollaron *manualmente* como los *automatizados* deben tener *documentación* clara y explícita_
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
 --
-
+[%notitle]
 === _¿Podemos empezar a construir una cultura de trabajo reproducible?_
+[.emphsentence]
+¿Podemos empezar a construir una cultura de trabajo reproducible?
