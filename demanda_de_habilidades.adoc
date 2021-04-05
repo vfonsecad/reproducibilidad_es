@@ -1,0 +1,63 @@
+
+[background-image="valeria_background_cut.svg",background-size=75%, background-opacity=0.4, background-color="white"]
+== *La demanda de habilidades computacionales en una cultura de Reproducibilidad*
+
+[.columns]
+=== El científico o profesional
+
+[.column.is-one-third.has-text-justified]
+--
+Siglo XX::
+Lápiz +
+Papel +
+Calculadora +
+Regla +
+Otros elementos mecánicos +
++
+{bl}
+{bl}
+Diseñar +
+Organizar +
+Manejar procesos mecánicos +
+--
+
+[.column.is-one-third.has-text-justified]
+--
+Siglo XXI::
+{bl}
+{bl}
+{bl}
+Computador +
+(Dispositivos digitales) +
++
+{bl}
+{bl}
+Manejar procesos digitales +
+Programar y mantener programas +
+--
+
+[.column.is-one-third.has-text-justified]
+--
+Siglo XXII::
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
+¿Qué viene después de la era digital?
+--
+
+=== El científico o profesional programado
+
+[.coloredtext]
+Generalización en la enseñanza
+
+{bl}
+{bl}
+*Sistemas Operativos*: Windows, Linux, Macintosh, …
+
+*Lenguajes de programación*: C, Java, Python, R, …
+
+*Version control systems*: Git, SNV, …
+
+=== _¿Podemos profundizar la inclusión de programación en las diferentes áreas del conocimiento?_
