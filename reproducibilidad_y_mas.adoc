@@ -1,0 +1,42 @@
+
+== Reproducibilidad y más
+
+=== _Reproducibility in Open Science_
+[link=https://book.fosteropenscience.eu/en/]
+image::fosteropenscience.png[fosteropenscience]
+
+=== _Reproducibility in Open Science_
+[link=https://book.fosteropenscience.eu/en/]
+image::fosteropenscience2.png[fosteropenscience2]
+
+=== _Reproducibility in Open Science_
+[link=https://book.fosteropenscience.eu/en/]
+image::fosteropenscience3.png[fosteropenscience3]
+
+=== _Reproducibility in Open Science_
+[link=https://unperiodico.unal.edu.co/pages/detail/open-science-essential-for-researching-the-coronavirus/]
+image::un_website.png[periodico-digital]
+
+=== _Reproducibility for Everyone_
+++++
+<iframe src="https://repro4everyone.org/lessons-open-science/" width="1200" height="600"></iframe>
+++++
+
+=== _Reproducibility for Everyone_
+++++
+<iframe src="https://repro4everyone.org/pages/people/" width="1200" height="600"></iframe>
+++++
+
+[.columns]
+=== _Reproducibilidad en la industria_
+
+[.column.is-two-fifths]
+--
+[link=https://towardsdatascience.com/why-your-company-needs-reproducible-research-d4a08f978d39]
+image::repro_industry1.png[why-your-company-needs-reproducible-research]
+--
+[.column.is-three-fifths]
+--
+[link=https://towardsdatascience.com/why-your-company-needs-reproducible-research-d4a08f978d39]
+image::repro_industry2.png[why-your-company-needs-reproducible-research2, 700,600]
+--
