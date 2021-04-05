@@ -18,16 +18,14 @@
     window.addEventListener("load", function() {
 
         revealDiv = document.querySelector("body div.reveal")
-        footer = document.getElementById("schauderhaft-footer");
+        footer = document.getElementById("mv-footer");
         revealDiv.appendChild(footer);
 
     } );
 </script>
- <div id="schauderhaft-footer" class="footer">
-	<img src = "assets/images/logo2.png" alt="Programa de Egresados" style="display:block;max-width:35%;max-height:35%;vertical-align:middle"/>
-	<span class="element"></span>
-	<img src = "assets/images/logo1.png" alt="Universidad Nacional de Colombia" style="display:block;max-width:35%;max-height:35%;float:right;vertical-align:middle"/>
-
+ <div id="mv-footer" class="footer">
+    <div style="display:table-cell"><img src = "assets/images/logo2.png" alt="Programa de Egresados"/></div>
+	<div style="display:table-cell"><img src = "assets/images/logo1.png" alt="Universidad Nacional de Colombia"/></div>
  </div>
 
 ++++
