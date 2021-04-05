@@ -59,6 +59,11 @@ DIV.mytitle P {
 
 }
 
+DIV.coloredtext P {
+  color: #78909C;
+  font-size: 30px;
+}
+
 /* ------------------------------------------------------ The refs section */
 DIV.refs {
   background-color: rgba(255,255,255,0);
