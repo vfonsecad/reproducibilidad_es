@@ -22,10 +22,10 @@ image::https://www.kienyke.com/wp-content/uploads/2012/12/chocoramo-3.jpg[chocor
 
 [.column]
 [link=http://www.phrma-jp.org/wordpress/wp-content/uploads/old/library/vaccine-factbook_e/1_Basic_Concept_of_Vaccination.pdf]
-image::vaccine1.png[vaccine1, 600,600]
+image::vaccine1.png[vaccine1, 600,550]
 [.column]
 [link=https://en.wikipedia.org/wiki/COVID-19_vaccine]
-image::vaccine2.png[vaccine2, 800,600]
+image::vaccine2.png[vaccine2, 800,550]
 
 [.columns]
 === *¡Muchas gracias UNAL!*
