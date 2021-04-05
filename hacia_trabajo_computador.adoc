@@ -1,0 +1,217 @@
+
+== *Hacia un trabajo reproducible en la era del computador*
+
+[.columns.is-vcentered]
+=== _Nuestro actual instinto de trabajo_
+
+[.column.is-two-fifths]
+--
+image::industry_2.png[problema_industria, 700,550]
+--
+
+[.column.is-two-fifths.has-text-justified]
+--
+En algún punto acá es necesario *detenerse* y *organizar*
+--
+
+[.column.is-one-fifths]
+--
+image::test_diagram.png[detener-test, 190,550]
+--
+
+=== _Elementos para un trabajo reproducible_
+
+{bl}
+{bl}
+{bl}
+{bl}
+[.emphsentence]
+--
+Los objetivos
+--
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
+{bl}
+La marca personal de un profesional o de un investigador
+
+[.columns]
+=== _Elementos para un trabajo reproducible_
+
+
+[.column.is-one-third.has-text-justified]
+--
+[.emphsentence]
+La estrategia
+
+
+Intentar::
+
+Detenerse::
+
+Diseñar::
+Manual +
+Automatizado +
+Trabajar::
+Documentación
+--
+
+[.column.is-one-third.has-text-justified]
+--
+[.emphsentence]
+La estructura
+
+* proyecto_objectivo
+** estudio1
+*** input
+*** proceso
+*** output
+
+Quién será el siguiente usuario de este proceso
+--
+
+[.column.is-one-third.has-text-justified]
+--
+[.emphsentence]
+Los elementos técnicos
+
+Experimental::
+Qué instrumentos +
+Qué material +
+Qué protocolos +
+
+Computacional::
+Qué sistema operativo +
+Qué software +
+Qué programación +
+--
+
+[.columns.is-vcentered]
+=== _Elementos para un trabajo reproducible_
+
+[.column.is-one-third.has-text-right]
+--
+Campos de trabajo/Ciencias::
+Naturales +
+{bl}
+De Ingeniería +
+{bl}
+Computacionales +
+{bl}
+Económicas
+--
+
+[.column.is-one-third.noborderimage]
+--
+image::arrows.png[arrows, 1000,300]
+--
+
+[.column.is-one-third.has-text-justified]
+--
+[.emphsentence]
+Los elementos técnicos
+
+Experimental::
+Qué instrumentos +
+Qué material +
+Qué protocolos +
+
+Computacional::
+Qué sistema operativo +
+Qué software +
+Qué programación +
+
+[.coloredtext]
+Qué mantenimiento
+--
+
+[.columns.is-vcentered]
+=== _Elementos para un trabajo reproducible_
+
+[.column.is-one-third.has-text-justified]
+--
+[.coloredtext]
+Uno mismo +
+{bl}
+{bl}
+[.coloredtext]
+Un investigador / profesional del mismo tipo +
+{bl}
+{bl}
+[.coloredtext]
+Una compañía que está interesada en un resultado académico +
+--
+
+[.column.is-one-third.has-text-justified]
+--
+[.emphsentence]
+La estructura
+
+* proyecto_objectivo
+** estudio1
+*** input
+*** proceso
+*** output
+
+Quién será el siguiente usuario de este proceso
+--
+
+[.column.is-one-third.has-text-justified]
+--
+[.coloredtext]
+Un usuario sin conocimiento técnico del tema +
+{bl}
+{bl}
+[.coloredtext]
+Un estudiante +
+{bl}
+{bl}
+[.coloredtext]
+Público en general +
+--
+
+[.columns]
+=== _Elementos para un trabajo reproducible_
+
+[.column.is-one-third.has-text-justified]
+--
+[.emphsentence]
+La estrategia
+
+
+Intentar::
+
+Detenerse::
+
+Diseñar::
+*Manual* +
+*Automatizado* +
+Trabajar::
+Documentación
+--
+
+[.column.is-one-third.has-text-justified]
+--
+Campos de trabajo/Ciencias::
+Naturales +
+{bl}
+De Ingeniería +
+{bl}
+Computacionales +
+{bl}
+Económicas
+--
+
+[.column.is-one-third.has-text-justified]
+--
+¿Qué tan probable es encontrar un *readme* en un proyecto pasado?
+{bl}
+{bl}
+{bl}
+{bl}
+_Todo el trabajo, sean los procesos que se desarrollaron manualmente como los automatizados deben tener documentación clara y explícita_
+--
+
+=== _¿Podemos empezar a construir una cultura de trabajo reproducible?_
