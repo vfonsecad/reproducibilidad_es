@@ -19,15 +19,20 @@
 //[.custom-style]
 //[cols="33a,33a,33a"]
 [.column]
+--
 [link=https://lanotapositiva.com/los-buenos-somos/emprendimiento-la-palabra-que-guio-la-vida-de-olimpo-lopez-el-creador-de-chocoramo_11462]
 image::https://lanotapositiva.com/wp-content/uploads/2019/04/Emprendimiento-la-palabra-que-gui%C3%B3-la-vida-de-Olimpo-L%C3%B3pez-el-creador-de-Chocorramo.jpg[chocorramo1, 1500,350]
+--
 [.column]
+--
 [link=https://www.kienyke.com/historias/como-se-fabrica-un-chocoramo]
 image::https://www.kienyke.com/wp-content/uploads/2012/12/chocoramo-2.jpg[chocorramo2, 1500, 500]
+--
 [.column]
+--
 [link=https://www.kienyke.com/historias/como-se-fabrica-un-chocoramo]
 image::https://www.kienyke.com/wp-content/uploads/2012/12/chocoramo-3.jpg[chocorramo3, 1500, 500]
-
+--
 
 [.columns]
 === _Reproducibilidad: *reproducir* una idea o proceso_

@@ -44,7 +44,7 @@ DIV.emphsentence P {
   text-align: center;
 }
 
-DIV.mytitle P {
+/* DIV.mytitle P {
 	color: #7D7D7D; 
 	font-weight: normal;
 	line-height: 1.0;
@@ -57,6 +57,19 @@ DIV.mytitle P {
 	top: -37px;
 	left: -20px;
 
+}
+*/
+
+DIV.coloredtext P {
+  color: #78909C;
+  font-size: 30px;
+}
+
+
+
+DIV.noborderimage IMG {
+  border: 0px;
+  box-shadow: 0px 0px;
 }
 
 /* ------------------------------------------------------ The refs section */
