@@ -54,6 +54,8 @@ include::introduccion.adoc[]
 
 include::dialogos_unal_2021_historias.adoc[]
 
+include::demanda_de_habilidades.adoc[]
+
 include::reproducibilidad_y_mas.adoc[]
 
 include::conclusiones.adoc[]
