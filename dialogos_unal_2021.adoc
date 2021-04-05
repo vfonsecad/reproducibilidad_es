@@ -1,15 +1,17 @@
 :revealjs_theme: white
 :customcss: my_theme.css
-//:revealjs_parallaxBackgroundImage: assets/images/network_background.jpg
-//:revealjs_parallaxBackgroundSize: 3500px 2300px
+:revealjs_parallaxBackgroundImage: assets/images/network_background.jpg
+:revealjs_parallaxBackgroundSize: 3500px 2300px
 :revealjs_width: 1600
 :revealjs_transition: none
+// :revealjs_height: 900
+// :revealjs_margin: 0.1
 :bl: pass:[ +]
 
 = _Sobre *reproducibilidad* y *repetibilidad* en la academia y en la industria_
 :imagesdir: assets/images/
-//:title-slide-background-image: desk.jpg
-
+:title-slide-background-image: unal_plaza.png
+:title-slide-background-opacity: 0.2
 
 ++++
 
@@ -47,11 +49,10 @@
 *_Abril 2021_*
 
 
-//[background-image="unal_background.svg",background-size=100%]
-
+[background-image="valeria_background.svg",background-size=75%, background-opacity=0.4, background-color="white"]
 == *Hablemos de reproducibilidad*
 
-//image::unal_background.svg[background,size=cover]
+// image::grafico.png[background,size=cover]
 
 //[%step]
 //* Foo
@@ -81,13 +82,17 @@ image::https://www.kienyke.com/wp-content/uploads/2012/12/chocoramo-3.jpg[chocor
 [.columns]
 === _Reproducibilidad: *reproducir* una idea o proceso_
 
-[.column]
+[.stretch.column]
+--
 [link=http://www.phrma-jp.org/wordpress/wp-content/uploads/old/library/vaccine-factbook_e/1_Basic_Concept_of_Vaccination.pdf]
-image::vaccine1.png[vaccine1, 600,600]
-[.column]
-[link=https://en.wikipedia.org/wiki/COVID-19_vaccine]
-image::vaccine2.png[vaccine2, 800,600]
+image::vaccine1.png[vaccine1]
+--
 
+[.stretch.column]
+--
+[link=https://en.wikipedia.org/wiki/COVID-19_vaccine]
+image::vaccine2.png[vaccine2]
+--
 
 [.columns]
 === _El problema actual sobre *reproducibilidad_*
