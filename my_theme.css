@@ -80,17 +80,17 @@ DIV.refs LI:hover P A {
    bottom: 0;
    color: white;
    background-color: #015681;
-   display: table;
  }
     
  .footer img {
-   vertical-align: middle;
+   vertical-align: bottom;
    padding: 0% 0% 0%;
  }
     
  .footer img:nth-of-type(1) {
-   max-width: 30%;
+   max-width: 10%;
  }
  .footer img:nth-last-child(1) {
-   max-width: 30%;
+   max-width: 15%;
+   float: right;
  }

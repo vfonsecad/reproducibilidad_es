@@ -24,8 +24,8 @@
     } );
 </script>
  <div id="mv-footer" class="footer">
-    <div style="display:table-cell"><img src = "assets/images/logo2.png" alt="Programa de Egresados"/></div>
-	<div style="display:table-cell"><img src = "assets/images/logo1.png" alt="Universidad Nacional de Colombia"/></div>
+    <img src = "assets/images/logo2.png" alt="Programa de Egresados"/>
+	<img src = "assets/images/logo1.png" alt="Universidad Nacional de Colombia"/>
  </div>
 
 ++++
