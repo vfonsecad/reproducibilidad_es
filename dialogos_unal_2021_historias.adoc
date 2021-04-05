@@ -79,7 +79,7 @@ image::historias_academia5_1.png[historias_academia5, 800, 400]
 
 [.column.is-one-fifth]
 --
-//[.coloredtext]
+[.coloredtext]
 Ph.D. Makeover{asterisk}
 
 by: https://github.com/marcodallavecchia[mdv] & https://github.com/vfonsecad[vfd]
