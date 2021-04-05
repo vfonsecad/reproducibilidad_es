@@ -91,16 +91,24 @@ Qué programación +
 [.columns.is-vcentered]
 === _Elementos para un trabajo reproducible_
 
-[.column.is-half.has-text-justified]
+[.column.is-one-third.has-text-justified]
 --
-Campso de trabajo/Ciencias::
+Campos de trabajo/Ciencias::
 Naturales +
+{bl}
 De Ingeniería +
+{bl}
 Computacionales +
+{bl}
 Económicas
 --
 
-[.column.is-half.has-text-justified]
+[.column.is-one-third]
+--
+IMAG
+--
+
+[.column.is-one-third.has-text-justified]
 --
 [.emphsentence]
 Los elementos técnicos
@@ -114,6 +122,9 @@ Computacional::
 Qué sistema operativo +
 Qué software +
 Qué programación +
+
+[.coloredtext]
+Qué mantenimiento
 --
 
 [.columns.is-vcentered]
@@ -121,12 +132,15 @@ Qué programación +
 
 [.column.is-one-third.has-text-justified]
 --
+[.coloredtext]
 Uno mismo +
 {bl}
 {bl}
+[.coloredtext]
 Un investigador / profesional del mismo tipo +
 {bl}
 {bl}
+[.coloredtext]
 Una compañía que está interesada en un resultado académico +
 --
 
@@ -146,11 +160,58 @@ Quién será el siguiente usuario de este proceso
 
 [.column.is-one-third.has-text-justified]
 --
+[.coloredtext]
 Un usuario sin conocimiento técnico del tema +
 {bl}
 {bl}
+[.coloredtext]
 Un estudiante +
 {bl}
 {bl}
+[.coloredtext]
 Público en general +
 --
+
+[.columns]
+=== _Elementos para un trabajo reproducible_
+
+[.column.is-one-third.has-text-justified]
+--
+[.emphsentence]
+La estrategia
+
+
+Intentar::
+
+Detenerse::
+
+Diseñar::
+*Manual* +
+*Automatizado* +
+Trabajar::
+Documentación
+--
+
+[.column.is-one-third.has-text-justified]
+--
+Campos de trabajo/Ciencias::
+Naturales +
+{bl}
+De Ingeniería +
+{bl}
+Computacionales +
+{bl}
+Económicas
+--
+
+[.column.is-one-third.has-text-justified]
+--
+¿Qué tan probable es encontrar un *readme* en un proyecto pasado?
+{bl}
+{bl}
+{bl}
+{bl}
+_Todo el trabajo, sean los procesos que se desarrollaron manualmente como los automatizados deben tener documentación clara y explícita_
+--
+
+=== _¿Podemos empezar a construir una cultura de trabajo reproducible?_
