@@ -34,6 +34,10 @@ image::vaccine2.png[vaccine2, 800,600]
 Agradecimiento al espacio de Diálogos con Egresados 2021 y facilidades.
 
 Colaboración con https://marcodallavecchia.github.io/biologistsadventure/[Marco Dalla Vecchia] en el desarrollo de este contenido.
+
+++++
+<iframe src="https://marcodallavecchia.github.io/biologistsadventure/" width="700" height="300"></iframe>
+++++
 --
 
 [.column]
