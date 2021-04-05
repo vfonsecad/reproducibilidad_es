@@ -307,3 +307,5 @@ image::headline_2.png[headline2, 600,450]
 --
 
 include::reproducibilidad_y_mas.adoc[]
+
+include::conclusiones.adoc[]

@@ -1,0 +1,52 @@
+
+== ¿Podemos abrir campo a la divulgación de Open Science y Reproducibilidad en la UNAL?
+
+[.columns]
+=== _¿La industria Ramo sin la receta del chocorramo?_
+
+
+//[.custom-style]
+//[cols="33a,33a,33a"]
+[.column]
+[link=https://lanotapositiva.com/los-buenos-somos/emprendimiento-la-palabra-que-guio-la-vida-de-olimpo-lopez-el-creador-de-chocoramo_11462]
+image::https://lanotapositiva.com/wp-content/uploads/2019/04/Emprendimiento-la-palabra-que-gui%C3%B3-la-vida-de-Olimpo-L%C3%B3pez-el-creador-de-Chocorramo.jpg[chocorramo1, 1500,350]
+[.column]
+[link=https://www.kienyke.com/historias/como-se-fabrica-un-chocoramo]
+image::https://www.kienyke.com/wp-content/uploads/2012/12/chocoramo-2.jpg[chocorramo2, 1500, 500]
+[.column]
+[link=https://www.kienyke.com/historias/como-se-fabrica-un-chocoramo]
+image::https://www.kienyke.com/wp-content/uploads/2012/12/chocoramo-3.jpg[chocorramo3, 1500, 500]
+
+[.columns]
+=== _¿El mundo en pandemia sin el protocolo de cómo hacer una vacuna?_
+
+[.column]
+[link=http://www.phrma-jp.org/wordpress/wp-content/uploads/old/library/vaccine-factbook_e/1_Basic_Concept_of_Vaccination.pdf]
+image::vaccine1.png[vaccine1, 600,600]
+[.column]
+[link=https://en.wikipedia.org/wiki/COVID-19_vaccine]
+image::vaccine2.png[vaccine2, 800,600]
+
+[.columns]
+=== *¡Muchas gracias UNAL!*
+[.column]
+--
+Agradecimiento al espacio de Diálogos con Egresados 2021 y facilidades.
+
+Colaboración con https://marcodallavecchia.github.io/biologistsadventure/[Marco Dalla Vecchia] en el desarrollo de este contenido.
+--
+
+[.column]
+--
+Twitter: @valefonsecadiaz
+
+LinkedIn: https://www.linkedin.com/in/valeria-fonseca-diaz-060283103/[https://www.linkedin.com/in/valeria-fonseca-diaz-060283103/]
+
+Email: mailto:valeria.fonseca.diaz@gmail.com[valeria.fonseca.diaz@gmail.com], mailto:vfonsecad@unal.edu.co[vfonsecad@unal.edu.co]
+
+Github: https://github.com/vfonsecad[https://github.com/vfonsecad]
+
+#TheReproducibilityParadigm
+#Reproducibility
+#R4E
+--
