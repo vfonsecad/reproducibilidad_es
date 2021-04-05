@@ -1,10 +1,136 @@
 
 //[background-image="desk.jpg"]
 [.columns]
-== Historias
+== *Historias*
 
-[.columm]
-* Foo
-* Bar
-* World
-* item 1
+
+
+=== _Historias de *crisis de reproducibilidad* en la *academia_*
+
+Dear researcher,
+{bl}
+I read your publication …
+{bl}
+Is it possible to have access to the data and the methods that you applied?
+
+image::historias_academia1.png[historias_academia1, 1500, 450]
+
+
+=== _Historias de *crisis de reproducibilidad* en la *academia_*
+
+Dear researcher,
+{bl}
+I read your publication …
+{bl}
+Is it possible to have access to the data and the methods that you applied?
+
+image::historias_academia2.png[historias_academia2, 700, 450]
+
+
+=== _Historias de *crisis de reproducibilidad* en la *academia_*
+
+El escondido y generalizado caso de la crisis de los estudiantes de doctorado. Después de 4 años es tiempo de reunir resultados y escribir la tesis… ¿Cuáles fueron los proyectos que se desarrollaron?
+
+
+image::historias_academia3.png[historias_academia3, 1500, 450]
+
+=== _Historias de *crisis de reproducibilidad* en la *industria_*
+
+Respondiendo a la petición de un cliente sobre una investigación 2 años atrás
+
+image::historias_industria1.png[historias_industria1, 1000, 500]
+
+
+[.columns]
+=== _Historias de *reproducibilidad éxitosa* en la *academia_*
+
+
+[.column.is-one-third]
+--
+Compartir códigos en repositorios académicos
+++++
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I did that aswell. Worked like magic, no errors, no interruptions. Great feeling to <a href="https://twitter.com/hashtag/reproduce?src=hash&amp;ref_src=twsrc%5Etfw">#reproduce</a> others work. I just love <a href="https://twitter.com/hashtag/OpenScience?src=hash&amp;ref_src=twsrc%5Etfw">#OpenScience</a> and <a href="https://twitter.com/hashtag/scicomm?src=hash&amp;ref_src=twsrc%5Etfw">#scicomm</a> ! <a href="https://t.co/CywxghgvD2">https://t.co/CywxghgvD2</a></p>&mdash; Manuela Reichelt (@ManuReichelt) <a href="https://twitter.com/ManuReichelt/status/1372586588950118401?ref_src=twsrc%5Etfw">March 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+--
+
+[.column.is-two-thirds]
+--
+image::historias_academia4.png[historias_academia4, 900, 580]
+--
+
+[.columns]
+=== _Historias de *reproducibilidad éxitosa* en la *academia_*
+
+[.column]
+--
+Compartir códigos en repositorios de uso masivo
+[link=https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/cem.3215]
+image::historias_academia5.png[historias_academia5, 800, 350]
+--
+[.column]
+--
+[link=https://github.com/vfonsecad/multivariate_calibration]
+image::historias_academia5_1.png[historias_academia5, 800, 400]
+--
+
+
+[.columns.is-vcentered]
+=== _Historias de *reproducibilidad éxitosa* en la *academia_*
+
+[.column.is-one-fifth]
+--
+//[.coloredtext]
+Ph.D. Makeover{asterisk}
+
+by: https://github.com/marcodallavecchia[mdv] & https://github.com/vfonsecad[vfd]
+--
+[.column.is-one-third]
+--
+SOFTWARE:::
+* bin
+* caso1
+** mapas
+** experimentos
+** versiones_SOFTWARE
+** resultados
+* caso2
+
+--
+[.column.is-one-third]
+--
+desarrollo_modelo_hidro::
+casos_studio:::
+* caso1
+** mapas
+** experimentos
+* caso2
+software_mantenimimento:::
+* bin
+resultados:::
+
+--
+
+
+
+=== _Historias de *reproducibilidad éxitosa* en la *industria_*
+
+Respondiendo a la petición de un cliente sobre una investigación pasada
+
+image::historias_industria2.png[historias_industria2, 1100, 520]
+
+
+[%notitle]
+=== _Historias de *reproducibilidad éxitosa* en la *industria_*
+
+
+Estamos pasando de publicar una figura de *resultados* a compartir el *proceso* de análisis, incluida la figura ...
+{bl}
+{bl}
+… de dejar el archivo del *informe* a dejar el proyecto documentado de cómo se realizó el *proceso*, incluido el informe
+{bl}
+{bl}
+{bl}
+[.emphsentence]
+--
+Cada uno de nosotros es una marca personal, y esa marca personal se fortalece si otros pueden reproducir lo que hemos realizado.
+--
