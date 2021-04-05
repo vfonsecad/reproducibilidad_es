@@ -392,26 +392,35 @@ td.hdlist1 {
 link.rel = 'stylesheet';
 link.type = 'text/css';
 link.href = window.location.search.match( /print-pdf/gi ) ? "https://cdn.jsdelivr.net/npm/reveal.js@3.9.2/css/print/pdf.css" : "https://cdn.jsdelivr.net/npm/reveal.js@3.9.2/css/print/paper.css";
-document.getElementsByTagName( 'head' )[0].appendChild( link );</script><link rel="stylesheet" href="my_theme.css"></head><body><div class="reveal"><div class="slides"><section class="title" data-state="title"><h1>Reproducibility</h1><div class="preamble"><script type="text/javascript">
-    window.addEventListener("load", function() {
+document.getElementsByTagName( 'head' )[0].appendChild( link );</script><link rel="stylesheet" href="my_theme.css"></head><body><div class="reveal"><div class="slides"><section class="title" data-state="title"><h1>Reproducibility</h1><div class="preamble"><!-- Create hidden header/footer <div> -->
+<div id="hidden" style="display:none;">
+    <div id="footer">
+        <div id="footer-bar"></div>
+        <div id="footer-left"><img src="assets/images/logo2.png"></div>
+        <div id="footer-right"><img src="assets/images/logo1.png"></div>
+    </div>
+</div>
 
-        revealDiv = document.querySelector("body div.reveal")
-        footer = document.getElementById("schauderhaft-footer");
-        revealDiv.appendChild(footer);
-
-    } );
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script type="text/javascript">
+    // 3. On Reveal.js ready event, copy header/footer <div> into each `.slide-background` <div>
+    var footer = $('#footer').html();
+    if ( window.location.search.match( /print-pdf/gi ) ) {
+        Reveal.addEventListener( 'ready', function( event ) {
+            $('.slide-background').append(footer);
+        });
+    }
+    else {
+        $('div.reveal').append(footer);
+   }
 </script>
- <div id="schauderhaft-footer" class="footer">
-	<img src = "assets/images/logo2.png" alt="Programa de Egresados" style="display:block;max-width:35%;max-height:35%;vertical-align:middle"/>
-	<span class="element"></span>
-	<img src = "assets/images/logo1.png" alt="Universidad Nacional de Colombia" style="display:block;max-width:35%;max-height:35%;float:right;vertical-align:middle"/>
-
- </div>
 <div class="paragraph"><p>by: Marco and Valeria &lt;3</p></div></div></section>
 <section id="_why_do_we_need_that"><h2>Why do we need that?</h2><div class="slide-content"><div class="ulist"><ul><li><p>Foo</p></li><li><p>Bar</p></li><li><p>World</p></li></ul></div>
 <div class="openblock refs"><div class="content"><div class="ulist"><ul><li><p><a href="https://www.vecteezy.com/vector-art/530854-low-poly-banner-design">Low poly banner design  Vectors by Vecteezy</a></p></li></ul></div></div></div></div></section>
-<section><section id="_slide_two"><h2>Slide Two</h2><div class="slide-content"><div class="paragraph"><p>A Great Story</p></div><div class="ulist"><ul><li><p>double <sup class="footnote">[<span class="footnote" title="View footnote.">1</span>]</sup></p></li><li><p>tertiary <sup class="footnote">[<span class="footnote" title="View footnote.">2</span>]</sup></p></li><li><p>apocalyptic <sup class="footnote">[<span class="footnote" title="View footnote.">3</span>]</sup></p></li></ul></div><aside class="notes"><div class="ulist"><ul><li><p>tell anecdote</p></li><li><p>make a point</p></li></ul></div></aside></div><div class="footnotes"><div class="footnote">1. The double hail-and-rainbow level makes my toes tingle.</div><div class="footnote">2. Th</div><div class="footnote">3. ff</div></div></section><section id="_slide_2_1"><h2>Slide 2.1</h2><div class="slide-content"><div class="paragraph"><p>Ti amo</p></div></div></section></section>
-<section id="_this_is_a_red_background"><h2>This is a red background</h2><div class="slide-content"><div class="imageblock"><a class="image" href="https://www.flickr.com/photos/javh/5448336655"><img src="assets/images/desk.jpg" alt="desk" width="50" height="50"></a></div></div></section></div></div><script src="https://cdn.jsdelivr.net/npm/reveal.js@3.9.2/js/reveal.js"></script><script>Array.prototype.slice.call(document.querySelectorAll('.slides section')).forEach(function(slide) {
+<section><section id="_slide_two" data-background-image="assets/images/desk.jpg" data-background-size="cover"><h2>Slide Two</h2><div class="slide-content"><div class="paragraph"><p>A Great Story</p></div><div class="ulist"><ul><li><p>double <sup class="footnote">[<span class="footnote" title="View footnote.">1</span>]</sup></p></li><li><p>tertiary <sup class="footnote">[<span class="footnote" title="View footnote.">2</span>]</sup></p></li><li><p>apocalyptic <sup class="footnote">[<span class="footnote" title="View footnote.">3</span>]</sup></p></li></ul></div><aside class="notes"><div class="ulist"><ul><li><p>tell anecdote</p></li><li><p>make a point</p></li></ul></div></aside></div><div class="footnotes"><div class="footnote">1. The double hail-and-rainbow level makes my toes tingle.</div><div class="footnote">2. Th</div><div class="footnote">3. ff</div></div></section><section id="_slide_2_1"><h2>Slide 2.1</h2><div class="slide-content"><div class="paragraph"><p>Ti amo</p></div></div></section></section>
+<section id="_this_is_a_red_background" class="columns"><h2>This is a red background</h2><div class="slide-content"><div class="openblock column is-half"><div class="content"><div class="imageblock"><img src="assets/images/desk.jpg" alt="desk"></div>
+<div class="paragraph"><p>this is a test text</p></div></div></div>
+<div class="openblock column is-half"><div class="content"><div class="imageblock"><img src="assets/images/desk.jpg" alt="desk"></div></div></div></div></section></div></div><script src="https://cdn.jsdelivr.net/npm/reveal.js@3.9.2/js/reveal.js"></script><script>Array.prototype.slice.call(document.querySelectorAll('.slides section')).forEach(function(slide) {
   if (slide.getAttribute('data-background-color')) return;
   // user needs to explicitly say he wants CSS color to override otherwise we might break custom css or theme (#226)
   if (!(slide.classList.contains('canvas') || slide.classList.contains('background'))) return;
