@@ -49,6 +49,12 @@
 
 *_Abril 2021_*
 
+[%notitle]
+== Descargo de responsabilidad
+
+Descargo de responsabilidad
+
+Todo el contenido de esta presentación es de autoría propia del presentador y colaboradores. Las imágenes adjuntas tomadas de terceros están referenciadas como hipervínculos que se pueden acceder desde el código html o desde la interacción en un navegador. Las imágenes no referenciadas son de diseño propio. El acceso al contenido de esta presentación es de naturaleza open source.
 
 include::introduccion.adoc[]
 

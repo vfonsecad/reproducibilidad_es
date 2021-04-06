@@ -55,6 +55,7 @@ Compartir códigos en repositorios académicos
 
 [.column.is-two-thirds]
 --
+[link=https://doi.org/10.1080/15230406.2020.1772113]
 image::historias_academia4.png[historias_academia4, 900, 580]
 --
 
