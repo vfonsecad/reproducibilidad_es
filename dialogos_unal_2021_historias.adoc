@@ -13,7 +13,7 @@ I read your publication …
 {bl}
 Is it possible to have access to the data and the methods that you applied?
 
-image::historias_academia1.png[historias_academia1, 1000, 490]
+image::historias_academia1.png[historias_academia1, 1200, 490]
 
 
 === _Historias de *crisis de reproducibilidad* en la *academia_*
