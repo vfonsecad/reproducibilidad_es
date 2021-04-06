@@ -238,13 +238,13 @@ Falta de comunicación para estructurar el trabajo
 --
 En la academia
 [link="https:"]
-image::academy_1.png[academia_hoy, 600,480]
+image::academy_1.png[academia_hoy, 700,530]
 --
 [.column.is-half]
 --
 En la industria
 [link="https:"]
-image::industry_1.png[industria_hoy, 700,480]
+image::industry_1.png[industria_hoy, 700,530]
 --
 
 [%notitle.columns]
@@ -274,7 +274,7 @@ image::crisis_science_2.png[crisis_science,800,300]
 [.column.is-half]
 --
 [link=https://www.google.com/search?q=reproducibility+crisis&oq=reproducibility+crisis&aqs=chrome.0.69i59l2j0l2j69i61l2.4074j0j7&sourceid=chrome&ie=UTF-8]
-image::crisis_science_google.png[google_repro_crisis,700,600]
+image::crisis_science_google.png[google_repro_crisis,1000,350]
 --
 [.column.is-half]
 --
@@ -312,7 +312,7 @@ Cuestionamiento de la validez científica
 --
 La crisis de reproducibilidad en la *industria*
 [link=https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c]
-image::news_repro_industry1.png[news_repro_industry1,1000,550]
+image::news_repro_industry1.png[news_repro_industry1,800,600]
 --
 [.column.is-one-third]
 --

@@ -25,6 +25,17 @@ image::vaccine1.png[vaccine1, 600,550]
 [link=https://en.wikipedia.org/wiki/COVID-19_vaccine]
 image::vaccine2.png[vaccine2, 800,550]
 
+
+[%notitle]
+=== Marca personal
+
+
+[.emphsentence]
+--
+Cada uno de nosotros es una marca personal, y esa marca personal se fortalece si otros pueden reproducir lo que hemos realizado.
+--
+
+
 [.columns]
 === *¡Muchas gracias UNAL!*
 [.column]

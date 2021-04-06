@@ -13,7 +13,7 @@ I read your publication …
 {bl}
 Is it possible to have access to the data and the methods that you applied?
 
-image::historias_academia1.png[historias_academia1, 1500, 450]
+image::historias_academia1.png[historias_academia1, 1000, 490]
 
 
 === _Historias de *crisis de reproducibilidad* en la *academia_*
@@ -24,7 +24,7 @@ I read your publication …
 {bl}
 Is it possible to have access to the data and the methods that you applied?
 
-image::historias_academia2.png[historias_academia2, 700, 450]
+image::historias_academia2.png[historias_academia2, 800, 580]
 
 
 === _Historias de *crisis de reproducibilidad* en la *academia_*
@@ -38,7 +38,7 @@ image::historias_academia3.png[historias_academia3, 1500, 450]
 
 Respondiendo a la petición de un cliente sobre una investigación 2 años atrás
 
-image::historias_industria1.png[historias_industria1, 1000, 500]
+image::historias_industria1.png[historias_industria1, 1000, 530]
 
 
 [.columns]
@@ -71,7 +71,7 @@ image::historias_academia5.png[historias_academia5, 800, 350]
 [.column]
 --
 [link=https://github.com/vfonsecad/multivariate_calibration]
-image::historias_academia5_1.png[historias_academia5, 800, 400]
+image::historias_academia5_1.png[historias_academia5, 800, 430]
 {bl}
 {bl}
 {bl}
@@ -121,7 +121,7 @@ resultados:::
 
 Respondiendo a la petición de un cliente sobre una investigación pasada
 
-image::historias_industria2.png[historias_industria2, 1100, 520]
+image::historias_industria2.png[historias_industria2, 1200, 600]
 
 
 [%notitle]
