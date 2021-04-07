@@ -326,3 +326,32 @@ Documentación inexistente
 {bl}
 Degradación de la *productividad*
 --
+
+[.columns]
+=== _La raíz del problema de *reproducibilidad_*
+
+[.column.is-one-half]
+--
+{bl}
+{bl}
+{bl}
+Hoy en día es un reto encontrar los proyectos *estructurados* y almacenados digitalmente de una forma entendible y completamente *documentada*
+{bl}
+{bl}
+{bl}
+{bl}
+--
+
+[.column.column.is-one-half.textbox]
+--
+carpeta_proyecto_objetivo::
+estudio1:::
+* .
+** input
+** proceso
+** output
+* _README_
+estudio2:::
+* ...
+--
+
